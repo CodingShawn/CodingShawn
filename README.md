@@ -1,4 +1,13 @@
 ### Hi there 👋
+I'm Shawn, a self-taught developer. I started out with Harvard's CS50 in 2019 and got hooked on programming ever since. I have mainly been exploring full stack web development and have also been dabbling in using SikuliX for scripting purposes at work. Welcome to my GitHub!
+
+## Frequently Used Tools & Technology
+![](https://img.shields.io/badge/Code-JavaScript-purple?logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/Framework-React-purple?logo=react&logoColor=white)
+![](https://img.shields.io/badge/Tools-Git-purple?logo=git&logoColor=white)
+![](https://img.shields.io/badge/Editor-VSCode-purple?logo=visual-studio-code&logoColor=white)
+
+
 
 <!--
 **CodingShawn/CodingShawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

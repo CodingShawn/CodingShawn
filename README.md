@@ -14,7 +14,14 @@ Listing of Registered Therapeutic Products dataset provided under the Singapore 
 ### &#128270; Find Pokemon App -- [View Live](https://find-pokemon-app.herokuapp.com/)
 [Source Code](https://github.com/CodingShawn/TOP-JS-Finding-Pokemon)
 
-A Finding Waldo clone where users have to locate certain Pokemon as fast as possible. Players are able to submit their scores to the hall of fame and the top 5 players' scores will be shown.
+A Finding Waldo clone where users have to locate certain Pokemon as fast as possible. Players are able to submit their scores to the hall of fame and the top 5 players' scores will be shown. 
+<details>
+  <summary>Spoiler warning</summary>
+  
+Togepi can be found at the bottom left hand side!
+  
+</details>
+
 
 **React** was used for the front-end, **Ruby on Rails** for the back-end, **PostgreSQL** to manage the database.
 

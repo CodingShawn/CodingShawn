@@ -1,6 +1,19 @@
 ### Hi there 👋
 I'm Shawn, a self-taught developer. I started out with Harvard's CS50 in 2019 and got hooked on programming ever since. I have mainly been exploring full stack web development and have also been dabbling in using SikuliX for scripting purposes at work. Welcome to my GitHub!
 
+## Projects
+
+### Pocket Pharmacist
+
+<img align='left' src='/assets/pocket-pharmacist.png' width='200"'>
+
+A mobile-responsive webpage that allows users to search for information on Singapore registered therapeutic projects.
+
+Built using React and Material-UI frameworks. Search results were presented using the [MUI-Datatables](https://github.com/gregnb/mui-datatables) library. Information was pulled using API calls to 
+Listing of Registered Therapeutic Products dataset provided under the Singapore Open Data Licence.
+
+[View Live](https://codingshawn.github.io/pocket-pharmacist/) [Source Code](https://github.com/CodingShawn/pocket-pharmacist)
+
 ## Frequently Used Tools & Technology
 ![](https://img.shields.io/badge/Code-JavaScript-purple?logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/Framework-React-purple?logo=react&logoColor=white)

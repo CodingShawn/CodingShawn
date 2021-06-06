@@ -3,16 +3,21 @@ I'm Shawn, a self-taught developer. I started out with Harvard's CS50 in 2019 an
 
 ## Projects
 
-### Pocket Pharmacist
+### Pocket Pharmacist -- [View Live](https://codingshawn.github.io/pocket-pharmacist/)
+[Source Code](https://github.com/CodingShawn/pocket-pharmacist)
 
-<img align='left' src='/assets/pocket-pharmacist.png' width='200"'>
+A mobile-responsive webpage that allows users to search for information on Singapore registered therapeutic projects. 
 
-A mobile-responsive webpage that allows users to search for information on Singapore registered therapeutic projects.
+Built using **React** and **Material-UI** frameworks. Search results were presented using the [MUI-Datatables](https://github.com/gregnb/mui-datatables) library. Information was pulled using API calls to 
+Listing of Registered Therapeutic Products dataset provided under the Singapore Open Data Licence. 
 
-Built using React and Material-UI frameworks. Search results were presented using the [MUI-Datatables](https://github.com/gregnb/mui-datatables) library. Information was pulled using API calls to 
-Listing of Registered Therapeutic Products dataset provided under the Singapore Open Data Licence.
+### Find Pokemon App -- [View Live](https://find-pokemon-app.herokuapp.com/)
+[Source Code](https://github.com/CodingShawn/TOP-JS-Finding-Pokemon)
 
-[View Live](https://codingshawn.github.io/pocket-pharmacist/) [Source Code](https://github.com/CodingShawn/pocket-pharmacist)
+A Finding Waldo clone where users have to locate certain Pokemon as fast as possible. Players are able to submit their scores to the hall of fame and the top 5 players' scores will be shown.
+
+**React** was used for the front-end, **Ruby on Rails** for the back-end, **PostgreSQL** to manage the database.
+
 
 ## Frequently Used Tools & Technology
 ![](https://img.shields.io/badge/Code-JavaScript-purple?logo=javascript&logoColor=white)

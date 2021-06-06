@@ -7,6 +7,19 @@ I'm Shawn, a self-taught developer. I started out with Harvard's CS50 in 2019 an
 ![](https://img.shields.io/badge/Tools-Git-purple?logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Editor-VSCode-purple?logo=visual-studio-code&logoColor=white)
 
+## Other Tools & Technology
+![](https://img.shields.io/badge/Framework-Ruby%20On%20Rails-purple?logo=ruby-on-rails&logoColor=white)
+![](https://img.shields.io/badge/Framework-Express-purple?logo=express&logoColor=white)
+
+![](https://img.shields.io/badge/Code-Ruby-purple?logo=ruby&logoColor=white)
+![](https://img.shields.io/badge/Code-Java-purple?logo=java&logoColor=white)
+![](https://img.shields.io/badge/Code-Python-purple?logo=python&logoColor=white)
+
+![](https://img.shields.io/badge/NoSQL-MongoDB-purple?logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/SQL-MySQL-purple?logo=mysql&logoColor=white)
+
+![](https://img.shields.io/badge/Styling-CSS3-purple?logo=css3&logoColor=white)
+
 
 
 <!--

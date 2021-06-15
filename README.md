@@ -23,7 +23,7 @@ Togepi can be found at the bottom left hand side!
 </details>
 
 
-**React** was used for the front-end, **Ruby on Rails** for the back-end, **PostgreSQL** to manage the database.
+**React** was used for the front-end, **Ruby on Rails** for the back-end, **PostgreSQL** to manage the database. Deployed app to **Heroku**.
 
 ### &#128674; Battleships App -- [View Live](https://codingshawn.github.io/TOP-JS-Battleship/)
 [Source Code](https://github.com/CodingShawn/TOP-JS-Battleship)

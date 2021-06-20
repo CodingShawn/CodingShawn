@@ -6,7 +6,7 @@ I'm Shawn, a self-taught developer. I started out with Harvard's CS50 in 2019 an
 ### &#128138; Pocket Pharmacist -- [View Live](https://codingshawn.github.io/pocket-pharmacist/)
 [Source Code](https://github.com/CodingShawn/pocket-pharmacist)
 
-A mobile-responsive webpage that allows users to search for information on Singapore registered therapeutic projects. 
+A mobile-responsive webpage that allows users to search for information on Singapore registered therapeutic products. 
 
 Built using **React** and **Material-UI** frameworks. Search results were presented using the [MUI-Datatables](https://github.com/gregnb/mui-datatables) library. Information was pulled using API calls to 
 Listing of Registered Therapeutic Products dataset provided under the Singapore Open Data Licence. 

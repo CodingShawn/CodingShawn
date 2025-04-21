@@ -11,14 +11,14 @@ A mobile-responsive webpage that allows users to search for information on Singa
 Built using **React** and **Material-UI** frameworks. Search results were presented using the [MUI-Datatables](https://github.com/gregnb/mui-datatables) library. Information was pulled using API calls to 
 Listing of Registered Therapeutic Products dataset provided under the Singapore Open Data Licence. 
 
-### &#128674; Battleships App
+### &#128674; Battleships App -- [View Live](https://codingshawn.github.io/TOP-JS-Battleship/)
 [Source Code](https://github.com/CodingShawn/TOP-JS-Battleship)
 
 A Battleship clone where users play against a computer player. 
 
 App was built using **Vanilla Javascript** and **CSS3**. Experimented with Test Driven Development by writing tests first before writing actual functions.
 
-### &#128270; Find Pokemon App -- [View Live](https://find-pokemon-app.herokuapp.com/)
+### &#128270; Find Pokemon App
 [Source Code](https://github.com/CodingShawn/TOP-JS-Finding-Pokemon)
 
 A Finding Waldo clone where users have to locate certain Pokemon as fast as possible. Players are able to submit their scores to the hall of fame and the top 5 players' scores will be shown. 

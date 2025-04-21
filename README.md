@@ -11,6 +11,13 @@ A mobile-responsive webpage that allows users to search for information on Singa
 Built using **React** and **Material-UI** frameworks. Search results were presented using the [MUI-Datatables](https://github.com/gregnb/mui-datatables) library. Information was pulled using API calls to 
 Listing of Registered Therapeutic Products dataset provided under the Singapore Open Data Licence. 
 
+### &#128674; Battleships App
+[Source Code](https://github.com/CodingShawn/TOP-JS-Battleship)
+
+A Battleship clone where users play against a computer player. 
+
+App was built using **Vanilla Javascript** and **CSS3**. Experimented with Test Driven Development by writing tests first before writing actual functions.
+
 ### &#128270; Find Pokemon App -- [View Live](https://find-pokemon-app.herokuapp.com/)
 [Source Code](https://github.com/CodingShawn/TOP-JS-Finding-Pokemon)
 
@@ -22,15 +29,7 @@ Togepi can be found at the bottom left hand side!
   
 </details>
 
-
 **React** was used for the front-end, **Ruby on Rails** for the back-end, **PostgreSQL** to manage the database. Deployed app to **Heroku**.
-
-### &#128674; Battleships App -- [View Live](https://codingshawn.github.io/TOP-JS-Battleship/)
-[Source Code](https://github.com/CodingShawn/TOP-JS-Battleship)
-
-A Battleship clone where users play against a computer player. 
-
-App was built using **Vanilla Javascript** and **CSS3**. Experimented with Test Driven Development by writing tests first before writing actual functions.
 
 ## Frequently Used Tools & Technology
 ![](https://img.shields.io/badge/Code-JavaScript-purple?logo=javascript&logoColor=white)
